@@ -1,7 +1,7 @@
 # GyroBox
 I was always bothered by some android apps not having sensor-based gestures and controls , although they could do it easily and if they did , that would be pretty convenient to use. So this is my silly attempt to implement that feature by using external app.
 
-GyroBox can add gyroscope controls to every apps , every games that lacks these controls. You can scroll , swipe on your android screen just by rotating your phone accordingly. Playing games that does not have sensor controls and needs manual swipe on screen? GyroBox can help you. GyroBox can automatically start or stop itself whenever specified apps or games are launched/closed , that makes it easy to use. GyroBox has custom sensitivity and other custom settings, to adjust your need and increase accuracy.
+GyroBox can add gyroscope controls to every apps , every games that lacks these controls. You can scroll , swipe on your android screen just by rotating your phone accordingly. Playing games that does not have sensor controls and needs manual swipe on screen? GyroBox can help you. GyroBox can automatically start or stop itself whenever specified apps or games are launched/closed , that makes it easy to use. It has custom sensitivity and other custom settings, to adjust your need and increase accuracy.
 
 DO NOT USE GYROBOX WITH APPS THAT ALREADY HAVE THESE CONTROLS, THAT CAN CAUSE SOME TEMPORARY PERFORMANCE IMPACT ON YOUR DEVICE.
 <b>WARNING: THIS IS A BETA VERSION, THEREFORE YOU MAY ENCOUNTER BUGS. IF YOU DO, OPEN AN ISSUE VIA OUR GITHUB REPOSITORY.</b>
