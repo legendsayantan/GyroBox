@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GyroBox</string>
+    <string name="accessibility_desc">This permission is needed to run GyroBox properly.\nGyrobox doesnot reads your screen or collects personal data.\nIt simulates the touches using Accessibility Service.</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
