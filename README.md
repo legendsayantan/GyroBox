@@ -9,7 +9,7 @@ DO NOT USE GYROBOX WITH APPS THAT ALREADY HAVE THESE CONTROLS, THAT CAN CAUSE SO
 ## Download GyroBox
 
 Download Latest Apk version 1.1:
-[Download](https://drive.google.com/u/0/uc?export=download&confirm=o4y0&id=14iOfzpvlRmSRkyum8-2zK4Qf7r0b6Cs7)
+[Download](https://download1644.mediafire.com/79rdjekzcs2g/p66win0wyhvhnkf/GyroBox.apk)
 
 ## Usage FAQ
 Q>What is GyroBox?
